@@ -1,0 +1,6 @@
+Binary trees
+AVL trees
+Heaps
+Tries
+Graphs
+Undirected Graphs
